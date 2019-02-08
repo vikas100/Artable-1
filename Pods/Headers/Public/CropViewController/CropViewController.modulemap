@@ -1,0 +1,6 @@
+module CropViewController [system] {
+  umbrella header "CropViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

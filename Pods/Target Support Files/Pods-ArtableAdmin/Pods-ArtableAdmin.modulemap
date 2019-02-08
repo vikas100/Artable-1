@@ -1,0 +1,6 @@
+module Pods_ArtableAdmin [system] {
+  umbrella header "Pods-ArtableAdmin-umbrella.h"
+
+  export *
+  module * { export * }
+}
